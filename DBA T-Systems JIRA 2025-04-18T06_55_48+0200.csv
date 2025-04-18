@@ -1,0 +1,1202 @@
+Tipo de Incidencia,Componente(s),Resumen,Estado,Creada,Actualizada,Resuelta,Campo personalizado (Remedy Tiquet Status),Campo personalizado (Due Date Resolució ANS),Campo personalizado (Linked Customer Code 5),Campo personalizado (Customer Reporter),Descripción
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004544951 - Suport funcional de l'eina ""Plataforma Dades REU"" per a XAVIER LASAUCA CISA",Paralizada,17/04/2025 14:01,17/04/2025 15:36,,Pending,24/04/2025 15:49,REQ000011308263,XAVIER LASAUCA CISA,"{color:#d04437}A entregar abans de 24/04/2025 15:49{color}
+
+Descripció de l'usuari: XAVIER LASAUCA CISA
+Contacte Usuari: ### 935526945/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a PLATAFORMA DE DADES REU
+
+DADES DE CONTACTE
+>>Nom de contacte: XAVIER LASAUCA CISA
+>>Telèfon de contacte: ### 935526945
+
+DETALL DE LA PETICIÓ
+>>Aplicació: PLATAFORMA DE DADES REU
+>>Descripció breu: Suport funcional de l'eina ""Plataforma Dades REU""
+>>Descripció detallada: Molt bon dia,
+
+ 
+
+Voldríem sol·licitar una càrrega del fitxer Plantilla 1 Indicadors DGR.xls ubicat en aquesta carpeta del Sharepoint per tal d’actualitzar les llistes de la DG Recerca de l’Espai de la dada del Departament de Recerca i Universitats.
+
+ 
+
+Gràcies per endavant, salutacions,
+
+ 
+
+Xavier Lasauca i Cisa | @xavierlasauca  cid:image003.png@01DB1EEC.49E485F0
+Responsable de Gestió del Coneixement i Sistemes d’Informació en R+D
+Direcció General de Recerca
+Departament de Recerca i Universitats
+
+Via Laietana 2 | 08003 Barcelona | 93 552 69 45 
+xavier.lasauca@gencat.cat
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+17/04/25 13:49:58, 47845238V, Customer Communication
+Sol·licitud creada des d'un correu electrònic
+adjunts: WO0000004544951_CWL000032466062_SuportfuncionaldeleinaPlataformaDadesREU.eml,,
+
+17/04/25 13:49:16, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+17/04/25 13:49:16, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004542969 - Error de longitud Fitxer 80 - IDIBELL per a ANNA BELLMUNT VALVERDE,Paralizada,16/04/2025 09:51,17/04/2025 12:37,,Pending,23/04/2025 11:38,REQ000011302994,ANNA BELLMUNT VALVERDE,"{color:#d04437}A entregar abans de 23/04/2025 11:38{color}
+
+Descripció de l'usuari: ANNA BELLMUNT VALVERDE
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+
+DADES DE CONTACTE
+>>Nom de contacte: ANNA BELLMUNT VALVERDE
+>>Telèfon de contacte: ###
+
+DETALL DE LA PETICIÓ
+>>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+>>Descripció breu: Error de longitud Fitxer 80 - IDIBELL
+>>Descripció detallada: La institució IDIBELL està carregant el fitxer 80, i li dóna diferents errors de longitud (309 i 310 caràcters, quan haurien de ser 308). El problema és que en comprovar el fitxer carregat, la longitud del camp de totes les files ens apareix com correcta (308 caràcters), i uniforme per a totes les files. Podríeu revisar-ho a veure quin és l'error? Moltes gràcies.
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 09:37:58, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+16/04/25 09:37:58, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004536702 - Suport tècnic per l'aplicació PDREU, del Departament de Recerca i Universitats, per a JOA",Paralizada,10/04/2025 13:11,17/04/2025 12:32,,Pending,15/04/2025 14:53,REQ000011284873,JOAN MIQUEL NOVELL LOPEZ,"{color:#d04437}A entregar abans de 15/04/2025 14:53{color}
+
+Descripció de l'usuari: JOAN MIQUEL NOVELL LOPEZ
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a PLATAFORMA DE DADES REU
+
+DADES DE CONTACTE
+>>Nom de contacte: JOAN MIQUEL NOVELL LOPEZ
+>>Telèfon de contacte: ###
+
+DETALL DE LA PETICIÓ
+>>Aplicació: PLATAFORMA DE DADES REU
+>>Descripció breu: Suport tècnic per l'aplicació PDREU, del Departament de Recerca i Universitats,
+>>Descripció detallada: Bon dia,
+
+ 
+
+Aquest tiquet de suport tècnic és per l’aplicació PDREU  del Departament de Recerca i Universitats, destinat al lot AM09_23 T-Systems.
+
+ 
+
+Aquestes són les planificacions de càrrega pel cas de l’OAU-Professorat:
+
+ 
+
+Des de demà fins que us avisem: 10.30 – 13.00 – 17.00
+
+ 
+
+Del 26 de maig fins el 6 de juny: 10.30 – 13.00 – 17.00
+
+ 
+
+Si us plau, doneu-li prioritat. Gràcies,
+
+ 
+
+Miquel Novell
+
+677381361 | Joanmiquel.novell@gencat.cat
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+10/04/25 12:56:01, 47845238V, Customer Communication
+Sol·licitud creada des d'un correu electrònic
+adjunts: WO0000004536702_CWL000032374671_SuporttècnicperlaplicacióPDREUdelDepartamentdeRecercaiUniversitatspell.eml,,
+
+10/04/25 12:53:26, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.Work Order Application-WO0000004536702:  
+ 
+ () :Suport tècnic per l'aplicació PDREU, del Departament de Recerca i Universitats, per JOAN MIQUEL NOVELL LOPEZ
+
+10/04/25 12:53:22, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+10/04/25 12:53:22, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004534659 - UNeix AM09 - Actualització CAR DT HIST DETALL ALU fins al 23-24 per a MARIA SILVIA PASCUA,Paralizada,09/04/2025 14:11,17/04/2025 12:14,,Pending,14/04/2025 15:58,REQ000011279156,MARIA SILVIA PASCUAL MARTÍNEZ,"{color:#d04437}A entregar abans de 14/04/2025 15:58{color}
+
+Descripció de l'usuari: MARIA SILVIA PASCUAL MARTÍNEZ
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+
+DADES DE CONTACTE
+>>Nom de contacte: MARIA SILVIA PASCUAL MARTÍNEZ
+>>Telèfon de contacte: ###
+
+DETALL DE LA PETICIÓ
+>>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+>>Descripció breu: UNeix AM09 - Actualització CAR DT HIST DETALL ALU fins al 23-24
+>>Descripció detallada: Tiquet per l’aplicació UNEIX, destinat al lot AM09_23 T-Systems.
+Cal actualitzar la CAR DT HIST DETALL ALU, per tenir les dades fins al 23-24.
+>>Adreces de correu addicionals per rebre les notificacions: calvarezra@gencat.cat
+
+_______________________________________________________________
+
+Descripció del Incident: 
+09/04/25 13:58:55, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+09/04/25 13:58:55, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004367441 - Suport funcional a UNeix AM09_23 . Problemes amb error NIF fitxers antics per ANNA LLOVET CISA,Paralizada,09/01/2025 15:21,11/04/2025 08:12,,Pending,31/03/2025 14:55,REQ000010876673,ANNA LLOVET CISA,"{color:#d04437}A entregar abans de 14/01/2025 17:10{color}
+
+Descripció de l'usuari: ANNA LLOVET CISA
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per l'aplicació UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom de contacte: ANNA LLOVET CISA
+> Teléfon de contacte: ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades de contacte addicionals: 
+> Urgència: Baixa
+> Nom de l'aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Descripció breu del suport: Suport funcional a UNeix AM09_23 . Problemes amb error NIF fitxers antics
+> Descripció detallada del suport: Bona tarda,
+
+ 
+
+Us reenvio els correus del 2023 on es demanava la correcta actualització de la taula LK_REC_INVESTIG_ACUM, ja que agafava dades antigues en comptes d’agafar la darrera dada. En el seu moment es va arreglar però sembla que torna a passar el mateix amb l’any de naixement i no sé si altres atributs. Agafa les primeres dades en comptes de les darreres. Caldria revisar el procés d’aquesta taula perquè l’actualització de les dades sigui la correcta i respongui a les dades més noves
+
+ 
+
+Anna
+
+ 
+
+Anna Llovet i Cisa
+
+Responsable de Gestió de la Informació
+
+Àrea de Suport a la Planificació, Anàlisi i Avaluació
+
+Departament de Recerca i Universitats
+
+Tel: 93-552 67 94
+
+Mòbil: 699 13 51 79
+
+allovet@gencat.cat
+
+_______________________________________________________________
+
+Descripció del Incident: 
+09/01/25 15:11:02, 48268668V, Customer Communication
+Sol·licitud creada des d'un correu electrònic
+adjunts: WO0000004367441_CWL000030803770_SuportfuncionalaUNeixAM09_23.ProblemesamberrorNIFfitxersantics.eml,,
+
+09/01/25 15:10:44, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+09/01/25 15:10:44, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004544111 - Ticket 3891 PDREU -> CPD2 per ULISES CALVO BORRAZ,Pendiente de Validación,16/04/2025 18:01,17/04/2025 14:11,16/04/2025 18:17,Completed,22/04/2025 13:47,REQ000011306126,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 22/04/2025 13:47{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: Ticket 3891 PDREU -> CPD2
+> Descripció detallada del suport: SUPORT_AM09_REU@t-systems.com
+
+El 23/12/2024 va haver un problema d'inaccessibilitat cap a BBDD Origen (ticxcat CPD2), incidencia INC000009583841.
+
+Es va realitzar una sessió tècnica per resoldre el problema, i al final sembla que es van realizar uns canvis en els DNS de l'entorn de PRO a Plataforma de dades de REU aplicació 3891.
+
+Es va obrir una nova WO, WO0000004375417,  per a que es realitzessin els mateixos canvis a l'entorn de PRE, i es va adjuntar l'informació següent:
+IP Origen: 10.51.195.38  (IR)
+IP Destí: 10.51.228.20 
+Port: 1591
+La persona que va portar tot això ja no hi és, i nosaltres no tenim clar si al final aquests canvis es van aplicar a PRE, ja que sembla que encara tenim algun problema de connectivitat. 
+ 
+Podrieu confirmar-nos que aquests canvis es van aplicar a l'entorn de PRE i que tot està correcte? Si no es va realitzar, quina informació necessiteu per fer-ho?
+
+Informació extra per més contexte: sembla que a la sessió tècnica que es va fer, l'encarregat de la màquina de PRO va afegir els noms d'Azure al fitxer host de la màquina de PRO. S'haurien de copiar aquestes entrades al host de PRE, ja que els DNS no resolen.
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 17:47:09, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+16/04/25 17:47:09, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),"WO0000004543754 - Suport funcional a UNeix AM09_23 permisos per a la taula CAR"".""LOOKUP_COSSOS_PR per a CAR",Pendiente de Validación,16/04/2025 13:51,17/04/2025 12:36,17/04/2025 12:35,Resolved,23/04/2025 15:40,REQ000011305410,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 23/04/2025 15:40{color}
+
+Descripció de l'usuari: CARINA ALVAREZ RAMOS
+Contacte Usuari: 932688950/CENTRE DEFECTE
+
+_______________________________________________________________
+
+Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+
+DADES DE CONTACTE
+>>Nom de contacte: CARINA ALVAREZ RAMOS
+>>Telèfon de contacte: 932688950
+
+DETALL DE LA PETICIÓ
+>>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+>>Descripció breu: Suport funcional a UNeix AM09_23 permisos per a la taula CAR"".""LOOKUP_COSSOS_PR
+>>Descripció detallada: Hola,
+
+voldria tenir permisos per a descarregar-me a través del túnel la taula CAR"".""LOOKUP_COSSOS_PROFESSORAT
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 13:40:17, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.Work Order Application-WO0000004543754:  
+ 
+ () :Suport funcional a UNeix AM09_23 permisos per a la taula CAR"".""LOOKUP_COSSOS_PR per CARINA ALVAREZ RAMOS
+
+16/04/25 13:40:14, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+16/04/25 13:40:14, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004542173 - PBI - Gestió d'assignació del professorat PAU. - Vigilants per ULISES CALVO BORRAZ,Pendiente de Validación,15/04/2025 14:31,15/04/2025 14:46,15/04/2025 14:36,Resolved,17/04/2025 10:14,REQ000011301136,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 17/04/2025 10:14{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: PBI - Gestió d'assignació del professorat PAU. - Vigilants
+> Descripció detallada del suport: Funcionament incorrecte
+
+_______________________________________________________________
+
+Descripció del Incident: 
+15/04/25 14:14:47, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+15/04/25 14:14:47, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004540508 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO any 2022] per a MARC ARN,Pendiente de Validación,14/04/2025 15:41,15/04/2025 19:06,15/04/2025 18:58,Resolved,17/04/2025 17:22,REQ000011296890,MARC ARNIJAS FABREGAS,"{color:#d04437}A entregar abans de 17/04/2025 17:22{color}
+
+Descripció de l'usuari: MARC ARNIJAS FABREGAS
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+
+DADES DE CONTACTE
+>>Nom de contacte: MARC ARNIJAS FABREGAS
+>>Telèfon de contacte: ###
+
+DETALL DE LA PETICIÓ
+>>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+>>Descripció breu: Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO any 2022]
+>>Descripció detallada: Bon dia,
+
+Aquest tiquet de Suport Funcional és per l’aplicació UNEIX, del Departament de Recerca i Universitats, destinat al lot AM09_23 T-Systems.
+
+[De la mateixa manera que us vam demanar la càrrega del 2023 de la CAR_DT_PIU_PREINSCRIPCIO voldríem que la féssiu pel 2022, us les anirem demanant any a any]
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+14/04/25 15:22:46, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.Work Order Application-WO0000004540508:  
+ 
+ () :Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO any 2022] per MARC ARNIJAS FABREGAS
+
+14/04/25 15:22:43, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+14/04/25 15:22:43, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004501512 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO  per MARC ARNIJAS FABREGAS,Pendiente de Validación,20/03/2025 11:52,14/04/2025 15:36,14/04/2025 15:29,Resolved,09/04/2025 08:22,REQ000011183270,MARC ARNIJAS FABREGAS,"{color:#d04437}A entregar abans de 25/03/2025 13:38{color}
+
+Descripció de l'usuari: MARC ARNIJAS FABREGAS
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per l'aplicació UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom de contacte: MARC ARNIJAS FABREGAS
+> Teléfon de contacte: ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades de contacte addicionals: 
+> Urgència: Baixa
+> Nom de l'aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Descripció breu del suport: Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO 
+> Descripció detallada del suport: Bon dia,
+
+ 
+
+Aquest tiquet de Suport Funcional és per l’aplicació UNEIX, del Departament de Recerca i Universitats, destinat al lot AM09_23 T-Systems.
+
+ 
+
+Com que es va tancar el tiquet sense estar acabat el tema de preinscripció adjunto tot el fil del mails del tiquet anterior:
+
+ 
+
+De: Marc Arnijas Fàbregas
+Enviat: dilluns, 17 de març de 2025 11:00
+Per a: SUPORT_AM09_REU@t-systems.com
+A/c: rbarandalla@gencat.cat; antoniosanchezt@gencat.cat; Alvarez Ramos, Carina <calvarezra@gencat.cat>
+Tema: RE: Suport Funcional UNeix AM09_23 [Carregar dades Preinscripció 2023 a CAR]
+
+ 
+
+Bon dia,
+
+ 
+
+Reprenc aquest tema per la càrrega de la CAR_DT_PIU_PREINSCRIPCIO del 2024, ja que a la taula faltaven dades del PIN 91917 (perquè no teníem la branca al ROC) i es multiplicaven les places del PIN 41064 (crec que això últim es va solucionar però cal comprobar-ho).
+
+ 
+
+Vam deixar-ho parat perquè el més urgent era carregar a SIIU i per solucionar-ho vam fer una manualitat amb el PIN 91917 perquè no teníem la branca informada a les dades del ROC.
+
+ 
+
+Ara hem comprovat que a la nova extracció del ROC tenim aquestes dades així que hauríem de tornar a tirar la càrrega de la CAR_DT_PIU_PREINSCRIPCIO el 2024 eliminant la manualitat del codi PIN 91917 que es va fer per deixar-ho tot polit i quan estigui comprovaré que les dades quadrin amb preinscripció.
+
+ 
+
+També us deixo un tema per aquí perquè ho reviseu en el vostre entorn de proves i millorar el procés que es va quedar pendent, que per això hem hagut d’esperar a la recàrrega del ROC:
+
+Ara mateix la consulta que munta la LOOKUP_CENTRES_ESTUDIS_PIU si no troba la branca d’un PIN al ROC (en aquest cas el 91917) aquest PIN no apareix a la LOOKUP_CENTRES_ESTUDIS_PIU i per tant perdem aquesta informació a la CAR_DT_PIU_PREINSCRIPCIO.
+
+Per tal que no s’hagin de fer recàrregues de dades del ROC la nostra proposta era que si no el trobava poses la branca = Z però que aparegués el PIN. Ens vau dir que això representava canviar el tipus de join i aquest procés passava de tardar de 10 minuts a 3 hores (contant que la LOOKUP_CENTRES_ESTUDIS_PIU s’actualitza cada cop que s’envien alguns fitxers el temps de 3h és inviable).
+
+Podríeu revisar si d’alguna altre forma obtenim el resultat esperat però sense gran augment de temps?
+
+ 
+
+Qualsevol dubte ens pregunteu sense cap problema i abans de fer cap canvi reviseu els resultats que donen i espereu el nostre ok.
+
+ 
+
+Salut!
+
+ 
+
+Marc Arnijas Fàbregas
+
+Tècnic Analista de Dades de l’Àrea de Suport a la Planificació, Anàlisi i Avaluació
+
+Consorci de Serveis Universitaris de Catalunya (CSUC)
+
+Departament de Recerca i Universitats
+
+ 
+
+Via Laietana, 2 ● 08003 Barcelona
+
+T. 93 552 68 29 ●  marc.arnijas@csuc.cat
+
+_______________________________________________________________
+
+Descripció del Incident: 
+20/03/25 11:38:42, 48268668V, Customer Communication
+Sol·licitud creada des d'un correu electrònic
+adjunts: WO0000004501512_CWL000032020767_SuportFuncionalUNeixAM09_23CàrregaCAR_DT_PIU_PREINSCRIPCIOPropostamill.eml,,
+
+20/03/25 11:38:23, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+20/03/25 11:38:23, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004496260 - Canvis al correu diari de càrregues:  per ULISES CALVO BORRAZ,Pendiente de Validación,18/03/2025 12:22,17/04/2025 11:54,15/04/2025 16:17,Resolved,20/03/2025 08:08,REQ000011171301,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 20/03/2025 08:08{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: Canvis al correu diari de càrregues: 
+> Descripció detallada del suport: Canvis al correu diari de càrregues: 
+1.	L'estat de PIMPEU és incorrecte
+2.	Afegir les planificacions noves d'ACCESNET Profesorat
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+18/03/25 12:08:38, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+18/03/25 12:08:38, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009908587 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,17/04/2025 14:55,17/04/2025 15:52,,Pending,02/05/2025 14:44,REQ000011308458,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 02/05/2025 14:44{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Validació ERR-F1366 Fitxer 80 dona error per PCT/ESaaaa/nnnnnn i el codi és correcte
+> Descripció dels passos que ha seguit per reproduir la incidència: La validació ERR-F1366 del fitxer 80 està saltant per casos in modalitat=3 i el codi_solicitud patent és del tipus PCT/ESaaaa/nnnnnn i aquests codis són correctes (exemples fitxer PC2480: PCT/ES2010/000224, PCT/ES2010/000364,PCT/ES2010/000422).
+
+EL format esperat és PCT/CCaaaa/nnnnnn, on CC correspon el camp CAR_LOOKUP_PAISOS_ISO_ALPHA_3.ID_PAIS_ISO2, més els codis indicats en la pròpia validació ('AP', 'BX', 'EA', 'EM', 'EN', 'EP', 'EU', 'GC', 'IB', 'OA', 'QZ', 'WO', 'XN', 'XU', 'XV'). EL codi=ES està a la lookup
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 16/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+17/04/25 14:44:02, 77315822B, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+17/04/25 14:42:16, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009908587:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . Validació ERR-F1366 Fitxer 80 dona error per PCT/ESaaaa/nnnnnn i el codi és correcte
+
+17/04/25 14:42:12, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+17/04/25 14:42:12, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009906850 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,16/04/2025 14:55,17/04/2025 13:51,,Pending,30/04/2025 14:40,REQ000011305277,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 30/04/2025 14:40{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Genera un error
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Error Script en validació fitxer 56 UPC i IJC
+> Descripció dels passos que ha seguit per reproduir la incidència: En la validació d'avui 16/4/25 a les 14h, els fitxers 2456 de la UPC i IJC han generat un error de script. Obrim incidència seguint indicacions del proveïdor. 
+
+RESULTAT DE LA VALIDACIÃ“:
+-------------------------
+Errors de camps obligatoris:  0
+** Existeixen errors d'alumnes: 0 **
+** Existeixen errors d'empleats: 0 **
+** Existeixen errors d'investigadors: 9 ** Errors d'script: 3 (Cal contactar amb CSI) Hi ha hagut problemes en el fitxer log auxiliar
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 16/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 14:40:17, 46946728W, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+16/04/25 14:34:57, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009906850:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . Error Script en validació fitxer 56 UPC i IJC
+
+16/04/25 14:34:51, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+16/04/25 14:34:51, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009903251 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,15/04/2025 12:25,15/04/2025 15:04,,Pending,29/04/2025 12:07,REQ000011300208,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 12:07{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: No s'està validant l'Àrea CNAE en el fitxer 64
+> Descripció dels passos que ha seguit per reproduir la incidència: Sembla que no hi ha cap validació funcional o d'integritat que estigui comprovant l'Àrea CNAE en el fitxer 64, malgrat que estigui indicat en els protocols.
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 15/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+15/04/25 12:07:06, 54248611Y, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+15/04/25 12:05:28, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009903251:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . No s'està validant l'Àrea CNAE en el fitxer 64
+
+15/04/25 12:05:23, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+15/04/25 12:05:23, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009899529 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,14/04/2025 09:55,14/04/2025 16:53,,Pending,28/04/2025 09:37,REQ000011293974,MARIA SILVIA PASCUAL MARTÍNEZ,"{color:#d04437}A entregar abans de 28/04/2025 09:37{color}
+
+Descripció de l'usuari: MARIA SILVIA PASCUAL MARTÍNEZ
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari MARIA SILVIA PASCUAL MARTÍNEZ té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: MARIA SILVIA PASCUAL MARTÍNEZ
+> Telèfon de contacte: ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: calvarezra@gencat.cat;rbarandalla@gencat.cat
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: UNeix AM09 Obertura a DWH del 12-04-25 no realitzada per fitxers marcats
+> Descripció dels passos que ha seguit per reproduir la incidència: La setmana passada, el divendres 11/4/25 es van marcar 55 fitxers, els de rendiment de 2024 per a la seva obertura a DWH (Camp Obrir DWH).
+En el mail de càrrega a DWH rebut el 12/4/25, però no apareix l'obertura marcada, apareix exactament el que es va carregar ja la setmana anterior, el 5/4/25.
+Adjuntem:
+ - mails de càrregues a DWH del 5/4/25 i del 12/4/25
+ - captura de l'àpex, on encara apareixen marcats els 55 fitxers de rendiment per obrir, que vam marcar l'11/4/25.
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: No ho sé
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 12/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+14/04/25 09:37:38, Y2227076T, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem per revisió.
+
+14/04/25 09:35:58, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009899529:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de MARIA SILVIA PASCUAL MARTÍNEZ . UNeix AM09 Obertura a DWH del 12-04-25 no realitzada per fitxers marcats
+
+14/04/25 09:35:58, 43546126L, Customer Communication
+Attachment from Request Entry
+adjunts: INC000009899529_WLG000080725229_Fitxers a DWH del dia  20250405.msg,INC000009899529_WLG000080725229_Fitxers a DWH del dia  20250412.msg,INC000009899529_WLG000080725229_Apex_DWH_Marcats110425.GIF
+
+14/04/25 09:35:53, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+14/04/25 09:35:53, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009891164 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,10/04/2025 10:05,16/04/2025 16:12,,Pending,29/04/2025 09:36,REQ000011282253,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 24/04/2025 09:46{color}
+
+Descripció de l'usuari: CARINA ALVAREZ RAMOS
+Contacte Usuari: 932688950/CENTRE DEFECTE
+
+_______________________________________________________________
+
+L'usuari CARINA ALVAREZ RAMOS té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: CARINA ALVAREZ RAMOS
+> Telèfon de contacte: 932688950
+> Seu del contacte: SEU CENTRE DEFECTE
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Genera un error
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Eliminar un estudi i una oferta d'Uneix ja que el ROC ens ha dit que són errònies
+> Descripció dels passos que ha seguit per reproduir la incidència: Eliminar de la BBDD Uneix la titulació GRAU00002185 perquè el ROC la va donar d'alta per error i no hauria d'haver arribat mai a Uneix
+Eliminar de la DDBB l'oferta 5199 (mateix motiu)
+
+Ni l'oferta 5199 ni el GRAU00002185 estan a l'extracció que ara tenim del curs 24-25 del ROC
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Tota la seu
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 01/10/2024
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+10/04/25 09:46:01, 77315822B, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+10/04/25 09:32:49, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009891164:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de CARINA ALVAREZ RAMOS . Eliminar un estudi i una oferta d'Uneix ja que el ROC ens ha dit que són errònies
+
+10/04/25 09:32:44, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+10/04/25 09:32:44, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009868868 - Incidència a UNeix AM09_23 - Càrrega fitxers 80 antics que no hem marcat,Paralizada,03/04/2025 11:05,16/04/2025 09:43,,Pending,25/04/2025 14:58,REQ000011249569,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 15/04/2025 10:47{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Bon dia,
+
+Aquest tiquet d'Incidència és per l’aplicació UNEIX, del Departament de Recerca i Universitats, destinat al lot AM09_23 T-Systems.
+Sembla que alguna cosa està passant amb el fitxer 80.
+En el mail de validació de la càrrega a CAR del 01/04, constava que s'havia carregat el següent fitxer:
+20 - [80-Patents] [2018] [0000001672-CRM]
+Nosaltres no l'havíem carregat, us vam consultar si l'havíeu carregat vosaltres i ens vau indicar que no.
+En el mail de càrrega a CAR d'avui (03/04) consta que s'han carregat els següents fitxers:
+10 - [80-Patents] [2016] [0000011044-ISGLOBAL]
+11 - [80-Patents] [2018] [0000001672-CRM]
+Si mirem l'apex per a aquests dos fitxers trobem que s'indica que NO s'han carregat a CAR i continuen constant marcats per carregar:
+I tanmateix, a la CAR.DT_REC_PATENTS sí consta que s'han carregat:
+DT_REC_PATENTSID_UNIVERSITATDATA_CARREGACuentaDeID_IDEN_SOL_PAT00000110443/4/2025 1:17:485800000016723/4/2025 1:17:481
+I tot això sense que nosaltres haguem marcat per carregar a CAR cap d'aquests fitxers.
+A més, amb aquestes dades del 2016 i 2018 que s'han carregat a CAR, tenim el dubte de si aquestes antigues hauran matxacat les dades més actuals que hi havia carregades a CAR.
+Ho podríeu mirar, si us plau?
+Salut,Raquel
+
+_______________________________________________________________
+
+Descripció del Incident: 
+03/04/25 10:47:46, 47845238V, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+03/04/25 10:46:17, integracioCRM_ES_B3, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+03/04/25 10:46:17, integracioCRM_ES_B3, General Information
+Sol·licitud generada automàticament
+adjunts: INC000009868868_WLG000080364869_IncidènciaaUNeixAM09_23-Càrregafitxers80anticsquenohemmarcat.eml,,
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009853510 - Incidència a UNeix AM09_23 - Fitxer 2446 CRAG es carrega el 27/03 però no apareix en el mail de...,Paralizada,31/03/2025 11:26,16/04/2025 12:21,,Pending,28/04/2025 12:23,REQ000011227144,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 10/04/2025 11:07{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Bon dia,
+
+Aquest tiquet d'Incidència és per l’aplicació UNEIX, del Departament de Recerca i Universitats, destinat al lot AM09_23 T-Systems.
+
+El fitxer 2446 del CRAG es va validar el 20/03 amb errors. Nosaltres vam justificar els errors i el fitxer es va carregar el dia 22/03, i així consta en el mail de càrregues a CAR del 21/03 (adjunt). 
+
+En l’apex i en la BBDD consta carregat el dia 27/03 i tanmateix el fitxer 2446 del CRAG no consta en el mail de càrrega a CAR del 27/03 (també adjunt)
+
+
+
+
+
+
+Mails del càrrega a CAR corresponents al 22/3/25 i al 27/3/25:
+
+
+
+
+Ho podríeu revisar, si us plau?
+
+Qualsevol cosa, ja ho sabeu.
+
+Salut,
+Raquel
+
+_______________________________________________________________
+
+Descripció del Incident: 
+31/03/25 11:07:31, 48268668V, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem 
+
+31/03/25 11:06:17, integracioCRM_ES_B3, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+31/03/25 11:06:17, integracioCRM_ES_B3, General Information
+Sol·licitud generada automàticament
+adjunts: INC000009853510_WLG000080198443_IncidènciaaUNeixAM09_23-Fitxer2446CRAGescarregael2703perònoapareixenel.eml,,
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904697 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,16/04/2025 08:25,17/04/2025 12:33,17/04/2025 12:30,Resolved,30/04/2025 08:08,REQ000011302559,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 30/04/2025 08:08{color}
+
+Descripció de l'usuari: CARINA ALVAREZ RAMOS
+Contacte Usuari: 932688950/CENTRE DEFECTE
+
+_______________________________________________________________
+
+L'usuari CARINA ALVAREZ RAMOS té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: CARINA ALVAREZ RAMOS
+> Telèfon de contacte: 932688950
+> Seu del contacte: SEU CENTRE DEFECTE
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Genera un error
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Incidència a UNeix AM09_Validació ERR-F1133 no funciona correctament
+> Descripció dels passos que ha seguit per reproduir la incidència: ERR-F1133: Assignatura aporta alumnes al grup ha de tenir valor X i NIF/Passaport empleat ha de tenir valor NOINFORMAT
+La validació està fent:
+ from UNEIX_032_POA_OFERTA_ASSIG  
+
+    where MAD_CURS = 'YYYY'  
+
+    AND MAD_UNIVERSITAT like '%ORIGEN%'  
+
+    AND (ASSIG_APORTA_ALUM <> 'X' OR ID_PDI<>'NOINFORMAT')
+
+I hauria de fer:
+ from UNEIX_032_POA_OFERTA_ASSIG  
+    where MAD_CURS = 'YYYY'  
+    AND MAD_UNIVERSITAT like '%ORIGEN%'  
+    AND (ASSIG_APORTA_ALUM = 'X' AND ID_PDI<>'NOINFORMAT')
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 15/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: Aquest error fa que no es pugui validar correctament el POA de la UOC
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 08:08:32, 54248611Y, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+16/04/25 08:07:51, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009904697:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de CARINA ALVAREZ RAMOS . Incidència a UNeix AM09_Validació ERR-F1133 no funciona correctament
+
+16/04/25 08:07:46, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+16/04/25 08:07:46, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904109 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,15/04/2025 15:05,15/04/2025 22:42,15/04/2025 22:31,Resolved,29/04/2025 14:48,REQ000011301079,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 14:48{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Validació  ERR-F1408 del fitxer 55 no està funcionant correctament
+> Descripció dels passos que ha seguit per reproduir la incidència: La validació ERR-F1408 ""El codi Projecte col·laboratiu hi participa alguna empresa no té un codi vàlid o no està informat"" sembla que no acaba de funcionar correctament perquè està saltant amb valors informats vàlids. Exemple: fitxer 2455 IJC, genera errors quan valor=N, que és un dels valors indicats en els protocols.
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 15/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+15/04/25 14:48:30, 46946728W, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+15/04/25 14:46:49, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009904109:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . Validació  ERR-F1408 del fitxer 55 no està funcionant correctament
+
+15/04/25 14:46:44, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+15/04/25 14:46:44, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904202 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,15/04/2025 15:05,15/04/2025 22:32,15/04/2025 17:25,Resolved,29/04/2025 14:47,REQ000011301273,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 14:47{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Validació ERR-F0304 ""El codi Organisme Finançador no té un codi vàlid."" fitxer 56 no funciona correctament
+> Descripció dels passos que ha seguit per reproduir la incidència: La validació  ERR-F0304 ""El codi Organisme Finançador no té un codi vàlid."" del fitxer 56 sembla que no estigui acabant de funcionar correctament perquè ha saltant per codis d'organismes vàlids (ex: 0000000129, 0000015676, 0000008650 fitxer IJC).
+
+Hem mirat la SQL de la validació i hi ha una cosa que és veu estranya en la join entre el fitxer 56 i les diferents lookups/TC:
+
+lookup/TC.MAD_UNIVERSITAT=Fitxer56.MAD_UNIVERSITAT
+
+On:
+.Fitxer.MAD_UNIVERSITAT: és la entitat que envia les dades en el fitxer 56
+ .lookup/TC. MAD_UNIVERSITAT: són lookups, no hi ha cap entitat que ho enviï. Si es miren els valors d'aquest camp a les lookups, o TC, tenen uns valors genèrics:
+     .TC27: UNEIX
+     .TC39: RECE
+     .lookup_universitats: ni tant sols té el camp MAD_UNIVERSITAT
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 15/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+15/04/25 14:47:48, 46946728W, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+15/04/25 14:42:45, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009904202:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . Validació ERR-F0304 ""El codi Organisme Finançador no té un codi vàlid."" fitxer 56 no funciona correctament
+
+15/04/25 14:42:40, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+15/04/25 14:42:40, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009896091 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,11/04/2025 11:45,15/04/2025 13:21,15/04/2025 13:20,Resolved,25/04/2025 11:34,REQ000011289650,ANNA BELLMUNT VALVERDE,"{color:#d04437}A entregar abans de 25/04/2025 11:34{color}
+
+Descripció de l'usuari: ANNA BELLMUNT VALVERDE
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari ANNA BELLMUNT VALVERDE té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: ANNA BELLMUNT VALVERDE
+> Telèfon de contacte: ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Genera un error
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Error de longitud en la validació del Fitxer 80
+> Descripció dels passos que ha seguit per reproduir la incidència: L'entitat FSJD ha estat enviant el fitxer 80 (SJD2480) i els dóna error de longitud per a tots els registres. La longitud teòrica és de 308, i he entrat al fitxer que s'ha considerat erroni i totes les files tenen la longitud correcta.
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 10/04/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+11/04/25 11:34:15, 54248611Y, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+11/04/25 11:32:13, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009896091:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de ANNA BELLMUNT VALVERDE . Error de longitud en la validació del Fitxer 80
+
+11/04/25 11:32:07, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+11/04/25 11:32:07, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Incident (I.),REU-2898-UNeix-(UNX),INC000009892007 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,10/04/2025 11:15,16/04/2025 08:50,16/04/2025 08:50,Closed,24/04/2025 11:00,REQ000011283444,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 24/04/2025 11:00{color}
+
+Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
+Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+L'usuari RAQUEL BARANDALLA HERRERO té una incidència relacionada amb una aplicació corporativa.
+DADES DE CONTACTE
+> Nom de contacte: RAQUEL BARANDALLA HERRERO
+> Telèfon de contacte: 932688950 ###
+> Seu del contacte: DEPARTAMENT DE RECERCA I UNIVERSITATS
+> Si ho desitja, pot indicar una adreça de correu addicional per rebre les notificacions: 
+> Dades addicionals de contacte: 
+DETALL DE LA INCIDÈNCIA
+El resultat de l'arbre de preguntes és
+> Tipus problema: Funcionament incorrecte
+> Nom de l'Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+> Nom del Component: 
+> Resum de la incidència o de l’error que es mostra a la pantalla: Validació ERR-F1382 no està desactivada
+> Descripció dels passos que ha seguit per reproduir la incidència: En la validació del fitxer MN2480 va sortir l'ERR-F1382. Aquesta validació s'havia demanat que es desactivés en el document de canvis de tramesa:
+
+·        ERR-F1382 - El Codi identificador sol·licitud patent és el mateix que el Número sol·licitud SICTI --> desactivar
+> La incidència afecta un usuari, un grup d’usuaris o tota la seu?: Un grup d'usuaris
+   > Si >> Només a mi 
+		> Codi de l’etiqueta o nom del seu ordinador: 
+> Des de quan té la incidència?: 31/03/2025
+> És un error recurrent o puntual?: Puntual
+> Observacions: 
+> Marqui la casella si considera que la incidència pot afectar a dades personals: 
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+10/04/25 11:00:49, 54248611Y, Company Assignment
+Assignat a : AM09_23 - DATA
+Text : Assignem
+
+10/04/25 10:54:12, Remedy Application Service, Customer Communication
+TRUNCATE WARNING
+Value does not fall within the limits specified for the field and has been truncated.BMC Remedy Incident Management-INC000009892007:  
+ 
+ () :Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al component  de RAQUEL BARANDALLA HERRERO . Validació ERR-F1382 no està desactivada
+
+10/04/25 10:54:07, Remedy Application Service, Customer Communication
+This ticket was created from the service request system.
+
+10/04/25 10:54:07, Remedy Application Service, Company Assignment
+Assignat a : ES_B3_SEIDOR
+
+"
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR,Abierta,04/04/2025 12:27,08/04/2025 08:22,,,,,,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat,Abierta,04/04/2025 12:26,08/04/2025 08:22,,,,,,PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni,Abierta,04/04/2025 11:46,08/04/2025 08:22,,,,,,PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis per tramesa SIIU (PER-268),Abierta,27/03/2025 18:06,08/04/2025 14:31,,,,,,Canvis per tramesa SIIU
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA) (PER-266)",Abierta,27/03/2025 18:06,08/04/2025 08:22,,,,,,"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA)"
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis tramesa Uneix docència part 1 (PER-265),Abierta,27/03/2025 17:26,08/04/2025 08:29,,,,,,Canvis tramesa Uneix docència part 1
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0000000 - REU - Nova configuració de la PDREU segons la nova versió del DA (PER-212),Abierta,11/12/2024 08:34,08/04/2025 08:22,,,,,,"Depen de la finalització del https://setools.t-systems.es/jira/browse/ESMAGREL09-5375
+
+ "
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053293 - REU - SICTI - Conversió codificació fitxers csv  (PER-232),En curso,24/01/2025 18:18,11/04/2025 16:14,,,,,,"Modificacions tramesa SICTI
+
+ 
+
+https://telekom.sharepoint.de/sites/AM09-DATARecercaiUniversitats/_layouts/15/Doc.aspx?sourcedoc=\{ed276a9b-f348-41ed-9457-e7c70097e343}&action=edit&wd=target%28UNEIX.one%7Ca745a153-ea3f-4b6e-8f16-9163bfe64932%2FCodificaci%C3%B3%20SICTI%7C2c84cf9d-1e49-4f52-9e0a-a997662d21df%2F%29&wdorigin=NavigationUrl"
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-224 Construcció de la 2a part Canvis tramesa Uneix Recerca 2024,En curso,20/12/2024 13:43,16/04/2025 16:15,,,,,,"Projecte: [ESMAGREL09-5527 - Construcció de la 2a part Canvis tramesa Uneix Recerca 2024 (PER-224)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5527%20-%20Construcci%C3%B3%20de%20la%202a%20part%20Canvis%20tramesa%20Uneix%20Recerca%202024%20(PER-224)?csf=1&web=1&e=xYNohR]
+
+*+Fases actualitzades:+*
+ * Fitxer 46 --> PRECAR i CAR Fet (/)
+
+ * Fitxer 64 --> PRECAR i CAR: Fet (/)
+
+ * Fitxer 80/82 -> PRECAR (no té CAR ni DWH ni MSTG): Fet 10/03 (/)
+
+ * Fitxer 55 -> PRECAR i CAR: finals de març, prioritat projecte SICTI (/)
+
+ * Fitxer 56 -> PRECAR i CAR: finals de març, prioritat projecte SICTI (/)
+
+ * DWH i MSTR (!)"
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-206-Modificacions a UNEIX per recollir el canvi de 9 titulacions provinents del ROC ,En curso,10/12/2024 09:58,02/04/2025 20:23,,,,,,"Habría que preguntar cual es la fecha límite que tienen para incorporar este cambio.
+
+Es un nuevo campo que nos viene de origen y no podríamos probar hasta que no nos envíen en PRE – se podría ir preparando el cambio.
+
+(x) Pendent de que ens enviin la nova estructura del fitxer. "
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052899 - REU - Modificar l'origen de les dades de l'informe Pimpeu-Cercador de propostes (PER-204),En curso,04/12/2024 09:05,08/04/2025 12:01,,,,,,"+*Notas*+
+
+(!) Pendiente de que nos den el usuario de lectura. 
+
+(!) Ezequiel: ya no es solo el da, es que si cambian el puerto o la ip entonces hay que solicitar que abran esa conectividad tb 
+
+ 
+
++*Descripció*+
+
+Les dades que s'usen per l'informe de ""Pimpeu-Cercador de propostes"" s'obtenen d'unes vistes a l'aplicació SIGEUS-Pimpeu (Pimpeu antic). Durant el 2024 s'ha construït el nou PIMPEU i s'han creat les vistes equivalents a les que tenia SIGEUS-Pimpeu, amb el mateix disseny que hi havia a SIGEUS-Pimpeu. S'ha de modificar l'origen per recollir les dades d'aquestes vistes. 
+
+Carpeta Sharepoint [ESMAGREL09-5218 -Origen Pimpeu-Cercador (PER-204)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5218%20-Origen%20Pimpeu-Cercador%20(PER-204)?csf=1&web=1&e=euoIFb]
+
+ 
+|| ||PIMPEU ANTIC||PIMPEU NOU||
+|*PRE* 
+Usuari: PIMPEU_LEC_PRE| * IP: 10.51.228.20
+ * Puerto: 1591| * IP : *{color:#de350b}[lo20dot2.cpd2pre.intranet.gencat.cat|http://lo20dot2.cpd2pre.intranet.gencat.cat/]{color}*
+ * Puerto:1591
+ * Service name: pimpeu_web|
+|*PRO* (s'ha canviat el port)
+Usuari: PIMPEU_LEC_PRO| * IP: 10.50.228.24
+ * Puerto: 1591| * IP : 10.50.228.24
+ * Puerto:{color:#de350b}*1601*{color}
+ * Service name: pimpeu_web|
+
+ 
+
+Resposta de TICxCAT:
+- El port de PRO ha de ser 1601 tant per l'entorn antic com pel nou. 
+- La IP de PRE és la mateixa. "
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053133 - REU - Modificacions tramesa SICTI  (PER-231),En curso,19/11/2024 08:12,07/04/2025 18:17,,,,,,"(on)  Carpeta projecte: [*ESMAGREL09-4991 - Modificacions tramesa SICTI (PER-231)*|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-4991%20-%20Modificacions%20tramesa%20SICTI%20%20(PER-231)?csf=1&web=1&e=mEp0qq]"
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052355 - REU - Redacció d'un nou DA per incloure la Net0 i altres mesures de seguretat a nivell d'arquitectura (PER-211),Pendiente de Validación,11/12/2024 08:32,02/04/2025 22:31,,,,,,"(!) Pendent d'actualizar IP, port i usuari de PIMPEU."
