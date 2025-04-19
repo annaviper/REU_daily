@@ -1,5 +1,5 @@
-Tipo de Incidencia,Componente(s),Resumen,Estado,Creada,Actualizada,Resuelta,Campo personalizado (Remedy Tiquet Status),Campo personalizado (Due Date Resolució ANS),Campo personalizado (Linked Customer Code 5),Campo personalizado (Customer Reporter),Descripción
-Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004544951 - Suport funcional de l'eina ""Plataforma Dades REU"" per a XAVIER LASAUCA CISA",Paralizada,17/04/2025 14:01,17/04/2025 15:36,,Pending,24/04/2025 15:49,REQ000011308263,XAVIER LASAUCA CISA,"{color:#d04437}A entregar abans de 24/04/2025 15:49{color}
+Tipo de Incidencia,Componente(s),Resumen,Estado,Campo personalizado (Remedy Tiquet Status),Creada,Actualizada,Resuelta,Campo personalizado (Customer Reporter),Campo personalizado (Due Date Resolució ANS),Campo personalizado (Linked Customer Code 5),Fecha de entrega,Descripción
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004544951 - Suport funcional de l'eina ""Plataforma Dades REU"" per a XAVIER LASAUCA CISA",Paralizada,Pending,17/04/2025 14:01,17/04/2025 15:36,,XAVIER LASAUCA CISA,24/04/2025 15:49,REQ000011308263,24/04/2025 00:00,"{color:#d04437}A entregar abans de 24/04/2025 15:49{color}
 
 Descripció de l'usuari: XAVIER LASAUCA CISA
 Contacte Usuari: ### 935526945/VIA LAIETANA 2 (BARCELONA)
@@ -50,36 +50,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004542969 - Error de longitud Fitxer 80 - IDIBELL per a ANNA BELLMUNT VALVERDE,Paralizada,16/04/2025 09:51,17/04/2025 12:37,,Pending,23/04/2025 11:38,REQ000011302994,ANNA BELLMUNT VALVERDE,"{color:#d04437}A entregar abans de 23/04/2025 11:38{color}
-
-Descripció de l'usuari: ANNA BELLMUNT VALVERDE
-Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
-
-_______________________________________________________________
-
-Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
-
-DADES DE CONTACTE
->>Nom de contacte: ANNA BELLMUNT VALVERDE
->>Telèfon de contacte: ###
-
-DETALL DE LA PETICIÓ
->>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
->>Descripció breu: Error de longitud Fitxer 80 - IDIBELL
->>Descripció detallada: La institució IDIBELL està carregant el fitxer 80, i li dóna diferents errors de longitud (309 i 310 caràcters, quan haurien de ser 308). El problema és que en comprovar el fitxer carregat, la longitud del camp de totes les files ens apareix com correcta (308 caràcters), i uniforme per a totes les files. Podríeu revisar-ho a veure quin és l'error? Moltes gràcies.
->>Adreces de correu addicionals per rebre les notificacions: 
-
-_______________________________________________________________
-
-Descripció del Incident: 
-16/04/25 09:37:58, Remedy Application Service, Company Assignment
-Assignat a : AM09_23 - DATA
-
-16/04/25 09:37:58, Remedy Application Service, General Information
-This ticket was created from the service request system.
-
-"
-Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004536702 - Suport tècnic per l'aplicació PDREU, del Departament de Recerca i Universitats, per a JOA",Paralizada,10/04/2025 13:11,17/04/2025 12:32,,Pending,15/04/2025 14:53,REQ000011284873,JOAN MIQUEL NOVELL LOPEZ,"{color:#d04437}A entregar abans de 15/04/2025 14:53{color}
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,"WO0000004536702 - Suport tècnic per l'aplicació PDREU, del Departament de Recerca i Universitats, per a JOA",Paralizada,Pending,10/04/2025 13:11,17/04/2025 12:32,,JOAN MIQUEL NOVELL LOPEZ,15/04/2025 14:53,REQ000011284873,15/04/2025 00:00,"{color:#d04437}A entregar abans de 15/04/2025 14:53{color}
 
 Descripció de l'usuari: JOAN MIQUEL NOVELL LOPEZ
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -144,7 +115,191 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004534659 - UNeix AM09 - Actualització CAR DT HIST DETALL ALU fins al 23-24 per a MARIA SILVIA PASCUA,Paralizada,09/04/2025 14:11,17/04/2025 12:14,,Pending,14/04/2025 15:58,REQ000011279156,MARIA SILVIA PASCUAL MARTÍNEZ,"{color:#d04437}A entregar abans de 14/04/2025 15:58{color}
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004544111 - Ticket 3891 PDREU -> CPD2 per ULISES CALVO BORRAZ,Pendiente de Validación,Completed,16/04/2025 18:01,17/04/2025 14:11,16/04/2025 18:17,ULISES CALVO BORRAZ,22/04/2025 13:47,REQ000011306126,22/04/2025 00:00,"{color:#d04437}A entregar abans de 22/04/2025 13:47{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: Ticket 3891 PDREU -> CPD2
+> Descripció detallada del suport: SUPORT_AM09_REU@t-systems.com
+
+El 23/12/2024 va haver un problema d'inaccessibilitat cap a BBDD Origen (ticxcat CPD2), incidencia INC000009583841.
+
+Es va realitzar una sessió tècnica per resoldre el problema, i al final sembla que es van realizar uns canvis en els DNS de l'entorn de PRO a Plataforma de dades de REU aplicació 3891.
+
+Es va obrir una nova WO, WO0000004375417,  per a que es realitzessin els mateixos canvis a l'entorn de PRE, i es va adjuntar l'informació següent:
+IP Origen: 10.51.195.38  (IR)
+IP Destí: 10.51.228.20 
+Port: 1591
+La persona que va portar tot això ja no hi és, i nosaltres no tenim clar si al final aquests canvis es van aplicar a PRE, ja que sembla que encara tenim algun problema de connectivitat. 
+ 
+Podrieu confirmar-nos que aquests canvis es van aplicar a l'entorn de PRE i que tot està correcte? Si no es va realitzar, quina informació necessiteu per fer-ho?
+
+Informació extra per més contexte: sembla que a la sessió tècnica que es va fer, l'encarregat de la màquina de PRO va afegir els noms d'Azure al fitxer host de la màquina de PRO. S'haurien de copiar aquestes entrades al host de PRE, ja que els DNS no resolen.
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 17:47:09, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+16/04/25 17:47:09, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004542173 - PBI - Gestió d'assignació del professorat PAU. - Vigilants per ULISES CALVO BORRAZ,Pendiente de Validación,Resolved,15/04/2025 14:31,15/04/2025 14:46,15/04/2025 14:36,ULISES CALVO BORRAZ,17/04/2025 10:14,REQ000011301136,17/04/2025 00:00,"{color:#d04437}A entregar abans de 17/04/2025 10:14{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: PBI - Gestió d'assignació del professorat PAU. - Vigilants
+> Descripció detallada del suport: Funcionament incorrecte
+
+_______________________________________________________________
+
+Descripció del Incident: 
+15/04/25 14:14:47, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+15/04/25 14:14:47, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004496260 - Canvis al correu diari de càrregues:  per ULISES CALVO BORRAZ,Pendiente de Validación,Resolved,18/03/2025 12:22,17/04/2025 11:54,15/04/2025 16:17,ULISES CALVO BORRAZ,20/03/2025 08:08,REQ000011171301,20/03/2025 00:00,"{color:#d04437}A entregar abans de 20/03/2025 08:08{color}
+
+Descripció de l'usuari: ULISES CALVO BORRAZ
+Contacte Usuari: ###/ENTITATS EXTERNES
+
+_______________________________________________________________
+
+Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
+> Nom de contacte: ULISES CALVO BORRAZ
+> Telèfon de contacte: ###
+> Dades de contacte addicionals: 
+> Urgència: Mitjana
+> Nom de l'aplicació: PLATAFORMA DE DADES REU
+> Descripció breu del suport: Canvis al correu diari de càrregues: 
+> Descripció detallada del suport: Canvis al correu diari de càrregues: 
+1.	L'estat de PIMPEU és incorrecte
+2.	Afegir les planificacions noves d'ACCESNET Profesorat
+
+
+_______________________________________________________________
+
+Descripció del Incident: 
+18/03/25 12:08:38, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+18/03/25 12:08:38, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR,Abierta,,04/04/2025 12:27,08/04/2025 08:22,,,,,31/12/2025 00:00,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0000000 - REU - Nova configuració de la PDREU segons la nova versió del DA (PER-212),Abierta,,11/12/2024 08:34,08/04/2025 08:22,,,,,,"Depen de la finalització del https://setools.t-systems.es/jira/browse/ESMAGREL09-5375
+
+ "
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052899 - REU - Modificar l'origen de les dades de l'informe Pimpeu-Cercador de propostes (PER-204),En curso,,04/12/2024 09:05,08/04/2025 12:01,,,,,14/04/2025 00:00,"+*Notas*+
+
+(!) Pendiente de que nos den el usuario de lectura. 
+
+(!) Ezequiel: ya no es solo el da, es que si cambian el puerto o la ip entonces hay que solicitar que abran esa conectividad tb 
+
+ 
+
++*Descripció*+
+
+Les dades que s'usen per l'informe de ""Pimpeu-Cercador de propostes"" s'obtenen d'unes vistes a l'aplicació SIGEUS-Pimpeu (Pimpeu antic). Durant el 2024 s'ha construït el nou PIMPEU i s'han creat les vistes equivalents a les que tenia SIGEUS-Pimpeu, amb el mateix disseny que hi havia a SIGEUS-Pimpeu. S'ha de modificar l'origen per recollir les dades d'aquestes vistes. 
+
+Carpeta Sharepoint [ESMAGREL09-5218 -Origen Pimpeu-Cercador (PER-204)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5218%20-Origen%20Pimpeu-Cercador%20(PER-204)?csf=1&web=1&e=euoIFb]
+
+ 
+|| ||PIMPEU ANTIC||PIMPEU NOU||
+|*PRE* 
+Usuari: PIMPEU_LEC_PRE| * IP: 10.51.228.20
+ * Puerto: 1591| * IP : *{color:#de350b}[lo20dot2.cpd2pre.intranet.gencat.cat|http://lo20dot2.cpd2pre.intranet.gencat.cat/]{color}*
+ * Puerto:1591
+ * Service name: pimpeu_web|
+|*PRO* (s'ha canviat el port)
+Usuari: PIMPEU_LEC_PRO| * IP: 10.50.228.24
+ * Puerto: 1591| * IP : 10.50.228.24
+ * Puerto:{color:#de350b}*1601*{color}
+ * Service name: pimpeu_web|
+
+ 
+
+Resposta de TICxCAT:
+- El port de PRO ha de ser 1601 tant per l'entorn antic com pel nou. 
+- La IP de PRE és la mateixa. "
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0053688 - REU - Actualització a demanda del portal d'autoservei (PER-239),Propuesta Aprobada,,12/03/2025 08:38,19/04/2025 08:44,,,,,30/06/2025 00:00,"(!) Hacer oferta
+
+ 
+
+Projecte. Nos solicitan habilitar un botón para recargar los informes de PowerBI
+
+ "
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052355 - REU - Redacció d'un nou DA per incloure la Net0 i altres mesures de seguretat a nivell d'arquitectura (PER-211),Pendiente de Validación,,11/12/2024 08:32,02/04/2025 22:31,,,,,02/03/2025 00:00,"(!) Pendent d'actualizar IP, port i usuari de PIMPEU."
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0053647 - REU - Cartes d'autorització per les comissaries de mossos d'esquadra (PER-195),En Análisis,,13/11/2024 12:56,07/04/2025 07:19,,,,,29/05/2025 00:00,"(*b)  [ +_ESMAGREL09-4918 - Cartes d'autorització per les comissaries de mossos d'esquadra (PER-195)_+|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-4918%20-%20Cartes%20d%27autoritzaci%C3%B3%20per%20les%20comissaries%20de%20mossos%20d%27esquadra%20(PER-195)?csf=1&web=1&e=ZXnFtZ]
+
+ 
+
++*Contexto*+
+
+Informació que es càrrega a uns Excels al Sharepoint pel càlcul d’enunciats. Al 2025, canvi en el nombre de matèries i seus. L'Excel té una estructura diferent, per tant, s'han de comprovar els origens de dades, ETLs i taules finals per a que tinguin en compte la nova estructura.
+
+ 
+
++*Información*+
+ * {*}Manual usuari{*}: [https://telekom.sharepoint.de/:w:/r/sites/AM09-DATARecercaiUniversitats/_layouts/15/Doc.aspx?sourcedoc=%7B1C2B5FD9-C024-45A3-9953-4B5DC2A9A62A%7D&file=3891_MABI_CALCUL_ENUN_MAN_USU_v2.0.docx&action=default&mobileredirect=true]
+ * {*}DT (Anàlisi funcional){*}: [https://telekom.sharepoint.de/:w:/r/sites/AM09-DATARecercaiUniversitats/_layouts/15/Doc.aspx?sourcedoc=%7Ba5f6ab3a-8f9c-4a29-badf-7df7f33111bf%7D&action=edit&wdPid=30423dd4]"
+Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0000000 - REU - Publicació de les notes de tall a la Web (PER-205),Estimación Preliminar Enviada,,04/12/2024 09:07,08/04/2025 08:27,,,,,31/08/2025 00:00,"Projecte
+
+ "
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004542969 - Error de longitud Fitxer 80 - IDIBELL per a ANNA BELLMUNT VALVERDE,Paralizada,Pending,16/04/2025 09:51,17/04/2025 12:37,,ANNA BELLMUNT VALVERDE,23/04/2025 11:38,REQ000011302994,23/04/2025 00:00,"{color:#d04437}A entregar abans de 23/04/2025 11:38{color}
+
+Descripció de l'usuari: ANNA BELLMUNT VALVERDE
+Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
+
+_______________________________________________________________
+
+Petició de suport funcional per a UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+
+DADES DE CONTACTE
+>>Nom de contacte: ANNA BELLMUNT VALVERDE
+>>Telèfon de contacte: ###
+
+DETALL DE LA PETICIÓ
+>>Aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES
+>>Descripció breu: Error de longitud Fitxer 80 - IDIBELL
+>>Descripció detallada: La institució IDIBELL està carregant el fitxer 80, i li dóna diferents errors de longitud (309 i 310 caràcters, quan haurien de ser 308). El problema és que en comprovar el fitxer carregat, la longitud del camp de totes les files ens apareix com correcta (308 caràcters), i uniforme per a totes les files. Podríeu revisar-ho a veure quin és l'error? Moltes gràcies.
+>>Adreces de correu addicionals per rebre les notificacions: 
+
+_______________________________________________________________
+
+Descripció del Incident: 
+16/04/25 09:37:58, Remedy Application Service, Company Assignment
+Assignat a : AM09_23 - DATA
+
+16/04/25 09:37:58, Remedy Application Service, General Information
+This ticket was created from the service request system.
+
+"
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004534659 - UNeix AM09 - Actualització CAR DT HIST DETALL ALU fins al 23-24 per a MARIA SILVIA PASCUA,Paralizada,Pending,09/04/2025 14:11,17/04/2025 12:14,,MARIA SILVIA PASCUAL MARTÍNEZ,14/04/2025 15:58,REQ000011279156,14/04/2025 00:00,"{color:#d04437}A entregar abans de 14/04/2025 15:58{color}
 
 Descripció de l'usuari: MARIA SILVIA PASCUAL MARTÍNEZ
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -174,7 +329,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004367441 - Suport funcional a UNeix AM09_23 . Problemes amb error NIF fitxers antics per ANNA LLOVET CISA,Paralizada,09/01/2025 15:21,11/04/2025 08:12,,Pending,31/03/2025 14:55,REQ000010876673,ANNA LLOVET CISA,"{color:#d04437}A entregar abans de 14/01/2025 17:10{color}
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004367441 - Suport funcional a UNeix AM09_23 . Problemes amb error NIF fitxers antics per ANNA LLOVET CISA,Paralizada,Pending,09/01/2025 15:21,11/04/2025 08:12,,ANNA LLOVET CISA,31/03/2025 14:55,REQ000010876673,31/03/2025 00:00,"{color:#d04437}A entregar abans de 14/01/2025 17:10{color}
 
 Descripció de l'usuari: ANNA LLOVET CISA
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -230,47 +385,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004544111 - Ticket 3891 PDREU -> CPD2 per ULISES CALVO BORRAZ,Pendiente de Validación,16/04/2025 18:01,17/04/2025 14:11,16/04/2025 18:17,Completed,22/04/2025 13:47,REQ000011306126,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 22/04/2025 13:47{color}
-
-Descripció de l'usuari: ULISES CALVO BORRAZ
-Contacte Usuari: ###/ENTITATS EXTERNES
-
-_______________________________________________________________
-
-Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
-> Nom de contacte: ULISES CALVO BORRAZ
-> Telèfon de contacte: ###
-> Dades de contacte addicionals: 
-> Urgència: Mitjana
-> Nom de l'aplicació: PLATAFORMA DE DADES REU
-> Descripció breu del suport: Ticket 3891 PDREU -> CPD2
-> Descripció detallada del suport: SUPORT_AM09_REU@t-systems.com
-
-El 23/12/2024 va haver un problema d'inaccessibilitat cap a BBDD Origen (ticxcat CPD2), incidencia INC000009583841.
-
-Es va realitzar una sessió tècnica per resoldre el problema, i al final sembla que es van realizar uns canvis en els DNS de l'entorn de PRO a Plataforma de dades de REU aplicació 3891.
-
-Es va obrir una nova WO, WO0000004375417,  per a que es realitzessin els mateixos canvis a l'entorn de PRE, i es va adjuntar l'informació següent:
-IP Origen: 10.51.195.38  (IR)
-IP Destí: 10.51.228.20 
-Port: 1591
-La persona que va portar tot això ja no hi és, i nosaltres no tenim clar si al final aquests canvis es van aplicar a PRE, ja que sembla que encara tenim algun problema de connectivitat. 
- 
-Podrieu confirmar-nos que aquests canvis es van aplicar a l'entorn de PRE i que tot està correcte? Si no es va realitzar, quina informació necessiteu per fer-ho?
-
-Informació extra per més contexte: sembla que a la sessió tècnica que es va fer, l'encarregat de la màquina de PRO va afegir els noms d'Azure al fitxer host de la màquina de PRO. S'haurien de copiar aquestes entrades al host de PRE, ja que els DNS no resolen.
-
-_______________________________________________________________
-
-Descripció del Incident: 
-16/04/25 17:47:09, Remedy Application Service, Company Assignment
-Assignat a : AM09_23 - DATA
-
-16/04/25 17:47:09, Remedy Application Service, General Information
-This ticket was created from the service request system.
-
-"
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),"WO0000004543754 - Suport funcional a UNeix AM09_23 permisos per a la taula CAR"".""LOOKUP_COSSOS_PR per a CAR",Pendiente de Validación,16/04/2025 13:51,17/04/2025 12:36,17/04/2025 12:35,Resolved,23/04/2025 15:40,REQ000011305410,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 23/04/2025 15:40{color}
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),"WO0000004543754 - Suport funcional a UNeix AM09_23 permisos per a la taula CAR"".""LOOKUP_COSSOS_PR per a CAR",Pendiente de Validación,Resolved,16/04/2025 13:51,17/04/2025 12:36,17/04/2025 12:35,CARINA ALVAREZ RAMOS,23/04/2025 15:40,REQ000011305410,23/04/2025 00:00,"{color:#d04437}A entregar abans de 23/04/2025 15:40{color}
 
 Descripció de l'usuari: CARINA ALVAREZ RAMOS
 Contacte Usuari: 932688950/CENTRE DEFECTE
@@ -307,33 +422,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004542173 - PBI - Gestió d'assignació del professorat PAU. - Vigilants per ULISES CALVO BORRAZ,Pendiente de Validación,15/04/2025 14:31,15/04/2025 14:46,15/04/2025 14:36,Resolved,17/04/2025 10:14,REQ000011301136,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 17/04/2025 10:14{color}
-
-Descripció de l'usuari: ULISES CALVO BORRAZ
-Contacte Usuari: ###/ENTITATS EXTERNES
-
-_______________________________________________________________
-
-Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
-> Nom de contacte: ULISES CALVO BORRAZ
-> Telèfon de contacte: ###
-> Dades de contacte addicionals: 
-> Urgència: Mitjana
-> Nom de l'aplicació: PLATAFORMA DE DADES REU
-> Descripció breu del suport: PBI - Gestió d'assignació del professorat PAU. - Vigilants
-> Descripció detallada del suport: Funcionament incorrecte
-
-_______________________________________________________________
-
-Descripció del Incident: 
-15/04/25 14:14:47, Remedy Application Service, Company Assignment
-Assignat a : AM09_23 - DATA
-
-15/04/25 14:14:47, Remedy Application Service, General Information
-This ticket was created from the service request system.
-
-"
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004540508 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO any 2022] per a MARC ARN,Pendiente de Validación,14/04/2025 15:41,15/04/2025 19:06,15/04/2025 18:58,Resolved,17/04/2025 17:22,REQ000011296890,MARC ARNIJAS FABREGAS,"{color:#d04437}A entregar abans de 17/04/2025 17:22{color}
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004540508 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO any 2022] per a MARC ARN,Pendiente de Validación,Resolved,14/04/2025 15:41,15/04/2025 19:06,15/04/2025 18:58,MARC ARNIJAS FABREGAS,17/04/2025 17:22,REQ000011296890,17/04/2025 00:00,"{color:#d04437}A entregar abans de 17/04/2025 17:22{color}
 
 Descripció de l'usuari: MARC ARNIJAS FABREGAS
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -372,7 +461,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004501512 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO  per MARC ARNIJAS FABREGAS,Pendiente de Validación,20/03/2025 11:52,14/04/2025 15:36,14/04/2025 15:29,Resolved,09/04/2025 08:22,REQ000011183270,MARC ARNIJAS FABREGAS,"{color:#d04437}A entregar abans de 25/03/2025 13:38{color}
+Request Fulfillment  (R.F.),REU-2898-UNeix-(UNX),WO0000004501512 - Suport Funcional UNeix AM09_23 [Càrrega CAR_DT_PIU_PREINSCRIPCIO  per MARC ARNIJAS FABREGAS,Pendiente de Validación,Resolved,20/03/2025 11:52,14/04/2025 15:36,14/04/2025 15:29,MARC ARNIJAS FABREGAS,09/04/2025 08:22,REQ000011183270,09/04/2025 00:00,"{color:#d04437}A entregar abans de 25/03/2025 13:38{color}
 
 Descripció de l'usuari: MARC ARNIJAS FABREGAS
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -470,36 +559,7 @@ Assignat a : AM09_23 - DATA
 This ticket was created from the service request system.
 
 "
-Request Fulfillment  (R.F.),REU-3891-Eina de QdC AUTOSERVEI,WO0000004496260 - Canvis al correu diari de càrregues:  per ULISES CALVO BORRAZ,Pendiente de Validación,18/03/2025 12:22,17/04/2025 11:54,15/04/2025 16:17,Resolved,20/03/2025 08:08,REQ000011171301,ULISES CALVO BORRAZ,"{color:#d04437}A entregar abans de 20/03/2025 08:08{color}
-
-Descripció de l'usuari: ULISES CALVO BORRAZ
-Contacte Usuari: ###/ENTITATS EXTERNES
-
-_______________________________________________________________
-
-Petició de suport tècnic per l'aplicació PLATAFORMA DE DADES REU
-> Nom de contacte: ULISES CALVO BORRAZ
-> Telèfon de contacte: ###
-> Dades de contacte addicionals: 
-> Urgència: Mitjana
-> Nom de l'aplicació: PLATAFORMA DE DADES REU
-> Descripció breu del suport: Canvis al correu diari de càrregues: 
-> Descripció detallada del suport: Canvis al correu diari de càrregues: 
-1.	L'estat de PIMPEU és incorrecte
-2.	Afegir les planificacions noves d'ACCESNET Profesorat
-
-
-_______________________________________________________________
-
-Descripció del Incident: 
-18/03/25 12:08:38, Remedy Application Service, Company Assignment
-Assignat a : AM09_23 - DATA
-
-18/03/25 12:08:38, Remedy Application Service, General Information
-This ticket was created from the service request system.
-
-"
-Incident (I.),REU-2898-UNeix-(UNX),INC000009908587 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,17/04/2025 14:55,17/04/2025 15:52,,Pending,02/05/2025 14:44,REQ000011308458,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 02/05/2025 14:44{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009908587 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,Pending,17/04/2025 14:55,17/04/2025 15:52,,RAQUEL BARANDALLA HERRERO,02/05/2025 14:44,REQ000011308458,02/05/2025 00:00,"{color:#d04437}A entregar abans de 02/05/2025 14:44{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -551,7 +611,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009906850 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,16/04/2025 14:55,17/04/2025 13:51,,Pending,30/04/2025 14:40,REQ000011305277,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 30/04/2025 14:40{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009906850 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,Pending,16/04/2025 14:55,17/04/2025 13:51,,RAQUEL BARANDALLA HERRERO,30/04/2025 14:40,REQ000011305277,30/04/2025 00:00,"{color:#d04437}A entregar abans de 30/04/2025 14:40{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -608,7 +668,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009903251 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,15/04/2025 12:25,15/04/2025 15:04,,Pending,29/04/2025 12:07,REQ000011300208,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 12:07{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009903251 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,Pending,15/04/2025 12:25,15/04/2025 15:04,,RAQUEL BARANDALLA HERRERO,29/04/2025 12:07,REQ000011300208,29/04/2025 00:00,"{color:#d04437}A entregar abans de 29/04/2025 12:07{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -658,7 +718,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009899529 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,14/04/2025 09:55,14/04/2025 16:53,,Pending,28/04/2025 09:37,REQ000011293974,MARIA SILVIA PASCUAL MARTÍNEZ,"{color:#d04437}A entregar abans de 28/04/2025 09:37{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009899529 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,Pending,14/04/2025 09:55,14/04/2025 16:53,,MARIA SILVIA PASCUAL MARTÍNEZ,28/04/2025 09:37,REQ000011293974,28/04/2025 00:00,"{color:#d04437}A entregar abans de 28/04/2025 09:37{color}
 
 Descripció de l'usuari: MARIA SILVIA PASCUAL MARTÍNEZ
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -716,7 +776,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009891164 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,10/04/2025 10:05,16/04/2025 16:12,,Pending,29/04/2025 09:36,REQ000011282253,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 24/04/2025 09:46{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009891164 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Paralizada,Pending,10/04/2025 10:05,16/04/2025 16:12,,CARINA ALVAREZ RAMOS,29/04/2025 09:36,REQ000011282253,29/04/2025 00:00,"{color:#d04437}A entregar abans de 24/04/2025 09:46{color}
 
 Descripció de l'usuari: CARINA ALVAREZ RAMOS
 Contacte Usuari: 932688950/CENTRE DEFECTE
@@ -769,7 +829,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009868868 - Incidència a UNeix AM09_23 - Càrrega fitxers 80 antics que no hem marcat,Paralizada,03/04/2025 11:05,16/04/2025 09:43,,Pending,25/04/2025 14:58,REQ000011249569,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 15/04/2025 10:47{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009868868 - Incidència a UNeix AM09_23 - Càrrega fitxers 80 antics que no hem marcat,Paralizada,Pending,03/04/2025 11:05,16/04/2025 09:43,,RAQUEL BARANDALLA HERRERO,25/04/2025 14:58,REQ000011249569,25/04/2025 00:00,"{color:#d04437}A entregar abans de 15/04/2025 10:47{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -809,7 +869,7 @@ Sol·licitud generada automàticament
 adjunts: INC000009868868_WLG000080364869_IncidènciaaUNeixAM09_23-Càrregafitxers80anticsquenohemmarcat.eml,,
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009853510 - Incidència a UNeix AM09_23 - Fitxer 2446 CRAG es carrega el 27/03 però no apareix en el mail de...,Paralizada,31/03/2025 11:26,16/04/2025 12:21,,Pending,28/04/2025 12:23,REQ000011227144,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 10/04/2025 11:07{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009853510 - Incidència a UNeix AM09_23 - Fitxer 2446 CRAG es carrega el 27/03 però no apareix en el mail de...,Paralizada,Pending,31/03/2025 11:26,16/04/2025 12:21,,RAQUEL BARANDALLA HERRERO,28/04/2025 12:23,REQ000011227144,28/04/2025 00:00,"{color:#d04437}A entregar abans de 10/04/2025 11:07{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -856,7 +916,7 @@ Sol·licitud generada automàticament
 adjunts: INC000009853510_WLG000080198443_IncidènciaaUNeixAM09_23-Fitxer2446CRAGescarregael2703perònoapareixenel.eml,,
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009904697 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,16/04/2025 08:25,17/04/2025 12:33,17/04/2025 12:30,Resolved,30/04/2025 08:08,REQ000011302559,CARINA ALVAREZ RAMOS,"{color:#d04437}A entregar abans de 30/04/2025 08:08{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904697 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,Resolved,16/04/2025 08:25,17/04/2025 12:33,17/04/2025 12:30,CARINA ALVAREZ RAMOS,30/04/2025 08:08,REQ000011302559,30/04/2025 00:00,"{color:#d04437}A entregar abans de 30/04/2025 08:08{color}
 
 Descripció de l'usuari: CARINA ALVAREZ RAMOS
 Contacte Usuari: 932688950/CENTRE DEFECTE
@@ -920,7 +980,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009904109 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,15/04/2025 15:05,15/04/2025 22:42,15/04/2025 22:31,Resolved,29/04/2025 14:48,REQ000011301079,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 14:48{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904109 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,Resolved,15/04/2025 15:05,15/04/2025 22:42,15/04/2025 22:31,RAQUEL BARANDALLA HERRERO,29/04/2025 14:48,REQ000011301079,29/04/2025 00:00,"{color:#d04437}A entregar abans de 29/04/2025 14:48{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -970,7 +1030,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009904202 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,15/04/2025 15:05,15/04/2025 22:32,15/04/2025 17:25,Resolved,29/04/2025 14:47,REQ000011301273,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 29/04/2025 14:47{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009904202 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,Resolved,15/04/2025 15:05,15/04/2025 22:32,15/04/2025 17:25,RAQUEL BARANDALLA HERRERO,29/04/2025 14:47,REQ000011301273,29/04/2025 00:00,"{color:#d04437}A entregar abans de 29/04/2025 14:47{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -1031,7 +1091,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009896091 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,11/04/2025 11:45,15/04/2025 13:21,15/04/2025 13:20,Resolved,25/04/2025 11:34,REQ000011289650,ANNA BELLMUNT VALVERDE,"{color:#d04437}A entregar abans de 25/04/2025 11:34{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009896091 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,Resolved,11/04/2025 11:45,15/04/2025 13:21,15/04/2025 13:20,ANNA BELLMUNT VALVERDE,25/04/2025 11:34,REQ000011289650,25/04/2025 00:00,"{color:#d04437}A entregar abans de 25/04/2025 11:34{color}
 
 Descripció de l'usuari: ANNA BELLMUNT VALVERDE
 Contacte Usuari: ###/VIA LAIETANA 2 (BARCELONA)
@@ -1081,7 +1141,7 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Incident (I.),REU-2898-UNeix-(UNX),INC000009892007 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,10/04/2025 11:15,16/04/2025 08:50,16/04/2025 08:50,Closed,24/04/2025 11:00,REQ000011283444,RAQUEL BARANDALLA HERRERO,"{color:#d04437}A entregar abans de 24/04/2025 11:00{color}
+Incident (I.),REU-2898-UNeix-(UNX),INC000009892007 - Incidència en aplicació: UNEIX - SISTEMA DE DWH I BI DE DADES UNIVERSITARIES CATALANES al compo...,Pendiente de Validación,Closed,10/04/2025 11:15,16/04/2025 08:50,16/04/2025 08:50,RAQUEL BARANDALLA HERRERO,24/04/2025 11:00,REQ000011283444,24/04/2025 00:00,"{color:#d04437}A entregar abans de 24/04/2025 11:00{color}
 
 Descripció de l'usuari: RAQUEL BARANDALLA HERRERO
 Contacte Usuari: 932688950 ###/VIA LAIETANA 2 (BARCELONA)
@@ -1133,21 +1193,17 @@ This ticket was created from the service request system.
 Assignat a : ES_B3_SEIDOR
 
 "
-Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR,Abierta,04/04/2025 12:27,08/04/2025 08:22,,,,,,PER-00000272: Interlingua: Ingestar les dades de les sol·licituds provinents del formulari de l'AGAUR
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat,Abierta,04/04/2025 12:26,08/04/2025 08:22,,,,,,PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni,Abierta,04/04/2025 11:46,08/04/2025 08:22,,,,,,PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis per tramesa SIIU (PER-268),Abierta,27/03/2025 18:06,08/04/2025 14:31,,,,,,Canvis per tramesa SIIU
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA) (PER-266)",Abierta,27/03/2025 18:06,08/04/2025 08:22,,,,,,"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA)"
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis tramesa Uneix docència part 1 (PER-265),Abierta,27/03/2025 17:26,08/04/2025 08:29,,,,,,Canvis tramesa Uneix docència part 1
-Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0000000 - REU - Nova configuració de la PDREU segons la nova versió del DA (PER-212),Abierta,11/12/2024 08:34,08/04/2025 08:22,,,,,,"Depen de la finalització del https://setools.t-systems.es/jira/browse/ESMAGREL09-5375
-
- "
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053293 - REU - SICTI - Conversió codificació fitxers csv  (PER-232),En curso,24/01/2025 18:18,11/04/2025 16:14,,,,,,"Modificacions tramesa SICTI
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat,Abierta,,04/04/2025 12:26,08/04/2025 08:22,,,,,31/12/2025 00:00,PER-00000260: Modificació dades i indicador PDI Permanent ens vinculat
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni,Abierta,,04/04/2025 11:46,08/04/2025 08:22,,,,,31/12/2025 00:00,PER-00000259: Corregir error duplicats POA perquè un PDI al fitxer 36 apareix en 2 unitats per al mateix any i uni
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis per tramesa SIIU (PER-268),Abierta,,27/03/2025 18:06,08/04/2025 14:31,,,,,30/09/2025 00:00,Canvis per tramesa SIIU
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA) (PER-266)",Abierta,,27/03/2025 18:06,08/04/2025 08:22,,,,,31/12/2025 00:00,"Canvis tramesa docència part 2 (fitxers mobilitat, llengües, personal, POA)"
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),Canvis tramesa Uneix docència part 1 (PER-265),Abierta,,27/03/2025 17:26,08/04/2025 08:29,,,,,30/09/2025 00:00,Canvis tramesa Uneix docència part 1
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053293 - REU - SICTI - Conversió codificació fitxers csv  (PER-232),En curso,,24/01/2025 18:18,11/04/2025 16:14,,,,,11/04/2025 00:00,"Modificacions tramesa SICTI
 
  
 
 https://telekom.sharepoint.de/sites/AM09-DATARecercaiUniversitats/_layouts/15/Doc.aspx?sourcedoc=\{ed276a9b-f348-41ed-9457-e7c70097e343}&action=edit&wd=target%28UNEIX.one%7Ca745a153-ea3f-4b6e-8f16-9163bfe64932%2FCodificaci%C3%B3%20SICTI%7C2c84cf9d-1e49-4f52-9e0a-a997662d21df%2F%29&wdorigin=NavigationUrl"
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-224 Construcció de la 2a part Canvis tramesa Uneix Recerca 2024,En curso,20/12/2024 13:43,16/04/2025 16:15,,,,,,"Projecte: [ESMAGREL09-5527 - Construcció de la 2a part Canvis tramesa Uneix Recerca 2024 (PER-224)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5527%20-%20Construcci%C3%B3%20de%20la%202a%20part%20Canvis%20tramesa%20Uneix%20Recerca%202024%20(PER-224)?csf=1&web=1&e=xYNohR]
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-224 Construcció de la 2a part Canvis tramesa Uneix Recerca 2024,En curso,,20/12/2024 13:43,16/04/2025 16:15,,,,,17/03/2025 00:00,"Projecte: [ESMAGREL09-5527 - Construcció de la 2a part Canvis tramesa Uneix Recerca 2024 (PER-224)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5527%20-%20Construcci%C3%B3%20de%20la%202a%20part%20Canvis%20tramesa%20Uneix%20Recerca%202024%20(PER-224)?csf=1&web=1&e=xYNohR]
 
 *+Fases actualitzades:+*
  * Fitxer 46 --> PRECAR i CAR Fet (/)
@@ -1161,42 +1217,9 @@ Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-224 Construcció de la 2a
  * Fitxer 56 -> PRECAR i CAR: finals de març, prioritat projecte SICTI (/)
 
  * DWH i MSTR (!)"
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-206-Modificacions a UNEIX per recollir el canvi de 9 titulacions provinents del ROC ,En curso,10/12/2024 09:58,02/04/2025 20:23,,,,,,"Habría que preguntar cual es la fecha límite que tienen para incorporar este cambio.
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),PER-206-Modificacions a UNEIX per recollir el canvi de 9 titulacions provinents del ROC ,En curso,,10/12/2024 09:58,02/04/2025 20:23,,,,,30/06/2025 00:00,"Habría que preguntar cual es la fecha límite que tienen para incorporar este cambio.
 
 Es un nuevo campo que nos viene de origen y no podríamos probar hasta que no nos envíen en PRE – se podría ir preparando el cambio.
 
 (x) Pendent de que ens enviin la nova estructura del fitxer. "
-Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052899 - REU - Modificar l'origen de les dades de l'informe Pimpeu-Cercador de propostes (PER-204),En curso,04/12/2024 09:05,08/04/2025 12:01,,,,,,"+*Notas*+
-
-(!) Pendiente de que nos den el usuario de lectura. 
-
-(!) Ezequiel: ya no es solo el da, es que si cambian el puerto o la ip entonces hay que solicitar que abran esa conectividad tb 
-
- 
-
-+*Descripció*+
-
-Les dades que s'usen per l'informe de ""Pimpeu-Cercador de propostes"" s'obtenen d'unes vistes a l'aplicació SIGEUS-Pimpeu (Pimpeu antic). Durant el 2024 s'ha construït el nou PIMPEU i s'han creat les vistes equivalents a les que tenia SIGEUS-Pimpeu, amb el mateix disseny que hi havia a SIGEUS-Pimpeu. S'ha de modificar l'origen per recollir les dades d'aquestes vistes. 
-
-Carpeta Sharepoint [ESMAGREL09-5218 -Origen Pimpeu-Cercador (PER-204)|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-5218%20-Origen%20Pimpeu-Cercador%20(PER-204)?csf=1&web=1&e=euoIFb]
-
- 
-|| ||PIMPEU ANTIC||PIMPEU NOU||
-|*PRE* 
-Usuari: PIMPEU_LEC_PRE| * IP: 10.51.228.20
- * Puerto: 1591| * IP : *{color:#de350b}[lo20dot2.cpd2pre.intranet.gencat.cat|http://lo20dot2.cpd2pre.intranet.gencat.cat/]{color}*
- * Puerto:1591
- * Service name: pimpeu_web|
-|*PRO* (s'ha canviat el port)
-Usuari: PIMPEU_LEC_PRO| * IP: 10.50.228.24
- * Puerto: 1591| * IP : 10.50.228.24
- * Puerto:{color:#de350b}*1601*{color}
- * Service name: pimpeu_web|
-
- 
-
-Resposta de TICxCAT:
-- El port de PRO ha de ser 1601 tant per l'entorn antic com pel nou. 
-- La IP de PRE és la mateixa. "
-Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053133 - REU - Modificacions tramesa SICTI  (PER-231),En curso,19/11/2024 08:12,07/04/2025 18:17,,,,,,"(on)  Carpeta projecte: [*ESMAGREL09-4991 - Modificacions tramesa SICTI (PER-231)*|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-4991%20-%20Modificacions%20tramesa%20SICTI%20%20(PER-231)?csf=1&web=1&e=mEp0qq]"
-Change Request Order (C.R.O.),REU-3891-Eina de QdC AUTOSERVEI,ID0052355 - REU - Redacció d'un nou DA per incloure la Net0 i altres mesures de seguretat a nivell d'arquitectura (PER-211),Pendiente de Validación,11/12/2024 08:32,02/04/2025 22:31,,,,,,"(!) Pendent d'actualizar IP, port i usuari de PIMPEU."
+Change Request Order (C.R.O.),REU-2898-UNeix-(UNX),ID0053133 - REU - Modificacions tramesa SICTI  (PER-231),En curso,,19/11/2024 08:12,07/04/2025 18:17,,,,,11/04/2025 00:00,"(on)  Carpeta projecte: [*ESMAGREL09-4991 - Modificacions tramesa SICTI (PER-231)*|https://telekom.sharepoint.de/:f:/r/sites/AM09-DATARecercaiUniversitats/Freigegebene%20Dokumente/General/20_Evolutius-Projectes/ESMAGREL09-4991%20-%20Modificacions%20tramesa%20SICTI%20%20(PER-231)?csf=1&web=1&e=mEp0qq]"

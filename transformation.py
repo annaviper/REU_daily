@@ -31,12 +31,12 @@ def neteja_descripcio(df):
 
     def extract_description(text):
         if pd.isna(text):
-            return None
+            return text
         for pattern in patterns:
             match = re.search(pattern, text, flags=re.DOTALL)
             if match:
                 return match.group(1)
-        return None  # fallback if nothing matches
+        return text  # fallback if nothing matches
 
     df["Descripción"] = df["Descripción"].apply(extract_description)
 
