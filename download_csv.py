@@ -25,10 +25,14 @@ def download_csv():
 
     driver.get('https://setools.t-systems.es/jira/issues/?filter=33457120')
 
+    time.sleep(1)
     elem = driver.find_element(By.CLASS_NAME, BUSQUEDA_BTN_CLS)
+    time.sleep(1)
     elem.click()
 
+    time.sleep(1)
     exportar_elem = driver.find_element(By.ID, EXPORTAR_BTN_ID)
+    time.sleep(1)
     exportar_elem.click()
 
     wait = WebDriverWait(driver, 10)
@@ -36,7 +40,9 @@ def download_csv():
     # campos_actuales = driver.find_element(By.XPATH, CSV_CAMPOS_ACTUALES_XPATH)
     campos_actuales.click()
 
+    time.sleep(1)
     exportar_popup = driver.find_element(By.ID, 'csv-export-dialog-export-button')
+    time.sleep(1)
     exportar_popup.click()
 
     time.sleep(10)
@@ -72,7 +78,7 @@ def move_csv():
         latest_file = max(matching_files, key=os.path.getmtime)
         destination = os.path.join(target_dir, os.path.basename(latest_file))
         shutil.move(latest_file, destination)
-        logger.info(f"Moved {latest_file} → {destination}")
+        logger.success(f"Moved {latest_file} → {destination}")
     else:
         logger.info("No matching files found.")
 
