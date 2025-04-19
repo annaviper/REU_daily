@@ -3,7 +3,7 @@ import re
 import numpy as np
 
 
-def neteja_resumen(df):
+def neteja_titol(df):
     patterns = [
         r"Incidència a UNeix AM09_23 ",
         r"Suport funcional a UNeix AM09_23 ",
@@ -11,8 +11,8 @@ def neteja_resumen(df):
     ]
     
     combined_pattern = "|".join(patterns)
-    df['Resumen'] = df['Resumen'].str.replace(combined_pattern, "", regex=True)
-    df['Resumen'] = df['Resumen'].str.replace(r"^[-.]\s*", "", regex=True)
+    df['Títol'] = df['Títol'].str.replace(combined_pattern, "", regex=True)
+    df['Títol'] = df['Títol'].str.replace(r"^[-.]\s*", "", regex=True)
     return df
 
 
@@ -51,11 +51,11 @@ def neteja_descripcio(df):
 def transform(df) -> pd.DataFrame:
     df['Componente(s)'] = df['Componente(s)'].str.replace(r'^\w+-\d+-', '', regex=True)
     # Extreu WO/INC
-    df['Ticket'] = df['Resumen'].str.extract(r'\b(WO\d+|INC\d+)\b(?= - )', expand=False)
-    df['Resumen'] = df['Resumen'].str.replace(r'\s*(WO\d+|INC\d+)\s*-\s*', '', regex=True)
+    df['Ticket'] = df['Títol'].str.extract(r'\b(WO\d+|INC\d+)\b(?= - )', expand=False)
+    df['Títol'] = df['Títol'].str.replace(r'\s*(WO\d+|INC\d+)\s*-\s*', '', regex=True)
 
     # Elimina frases sense informació
-    df = neteja_resumen(df)
+    df = neteja_titol(df)
 
     # Extreu missatge
     df = neteja_descripcio(df)
@@ -67,9 +67,8 @@ def transform(df) -> pd.DataFrame:
         "Campo personalizado (Linked Customer Code 5)": "Remedy ID",
         "Campo personalizado (Customer Reporter)": "Customer Reporter"
         })
-    df = df[['Componente(s)', 'Ticket', 'Resumen', 'Descripción', 'Estado', 'Remedy Status', 'Creada',
-        'Resuelta', 'ANS', 'Remedy ID',
-       'Customer Reporter']]
+    df = df[['Componente(s)', 'Ticket', "JIRA", 'Títol', 'Descripción', 'Estado', 'Remedy Status', 'Creada',
+        'Resuelta', 'ANS', 'Remedy ID', 'Customer Reporter']]
     df = df.sort_values('Estado').reset_index(drop=True)
 
     return df
