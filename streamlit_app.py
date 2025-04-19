@@ -8,7 +8,6 @@ from os import listdir
 from os.path import isfile, join
 import regex as re
 from transformation import transform
-# import html as html
 
 
 # CONSTANTS
